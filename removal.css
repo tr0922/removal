@@ -1,0 +1,50 @@
+/* Updated 04/22 */
+
+/* Removal */
+#clientExit,
+#aMerger,
+#rankedSoonTm,
+#newsHolder,
+#youNewDiv,
+#onetrust-consent-sdk,
+#aHolder,
+.imageButton,
+#editorBtnM,
+.headerBarRight .verticalSeparator,
+#seasonLabel,
+.krSocial,
+#mailCount,
+#voiceDisplay,
+#bubbleContainer,
+.endAHolder,
+#igXPBar,
+.button.small.buttonO img,
+#tlInfHold,
+#loadEditrBtn,
+.settingsBtn[onclick="openOneTrust()"],
+.menuSocialB{
+    display: none!important;
+}
+
+.button,
+.button:hover,
+.quickJoin{
+	border: hidden!important
+}
+
+.setSugBox2{
+    display: none    
+}
+
+/* COMP */
+
+iframe#bigMFeatVid,
+.itemOwn,
+.itemSea,
+#cmpPartnerImg,
+#cmpLeavInfo,
+#cmpDatBox,
+#cmpStatBox .material-icons,
+#cmpStatBox .material-icons+span{
+	display: none!important
+}
